@@ -3,7 +3,7 @@ This is a repository containing the lectures for the Skoltech's Machine Learning
 
 ## The list of the current lectures published (will be updated with time):
 
-...
+- LECTURE 1 (29.01) - Introduction Lecture
 
 ## Course Description:
 
