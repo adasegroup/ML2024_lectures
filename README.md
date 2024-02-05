@@ -5,6 +5,8 @@ This is a repository containing the lectures for the Skoltech's Machine Learning
 
 - LECTURE 1 (29.01) - Introduction Lecture
 - LECTURE 2 (30.01) - Regression
+- LECTURE 3 (01.02) - Classification
+- LECTURE 4 (05.02) - Tree-based methods, Bagging, Random forest
 
 ## Course Description:
 
