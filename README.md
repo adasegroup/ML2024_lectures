@@ -9,6 +9,7 @@ This is a repository containing the lectures for the Skoltech's Machine Learning
 - LECTURE 4 (05.02) - Tree-based methods, Bagging, Random forest
 - LECTURE 5 (06.02) - Adaboost
 - LECTURE 6 (08.02) - Gradient Boosting
+- LECTURE 7 (12.02) - Multi-class predictions, Naive Bayes
 
 ## Course Description:
 
