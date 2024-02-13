@@ -10,6 +10,7 @@ This is a repository containing the lectures for the Skoltech's Machine Learning
 - LECTURE 5 (06.02) - Adaboost
 - LECTURE 6 (08.02) - Gradient Boosting
 - LECTURE 7 (12.02) - Multi-class predictions, Naive Bayes
+- LECTURE 8 (13.02) - Model and feature selection
 
 ## Course Description:
 
