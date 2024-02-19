@@ -12,6 +12,7 @@ This is a repository containing the lectures for the Skoltech's Machine Learning
 - LECTURE 7 (12.02) - Multi-class predictions, Naive Bayes
 - LECTURE 8 (13.02) - Model and feature selection
 - LECTURE 9 (15.02) - Artificial Neural Networks
+- LECTURE 10 (19.02) - Deep Artificial Neural Networks
 
 ## Course Description:
 
