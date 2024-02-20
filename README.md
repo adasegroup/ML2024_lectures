@@ -13,6 +13,7 @@ This is a repository containing the lectures for the Skoltech's Machine Learning
 - LECTURE 8 (13.02) - Model and feature selection
 - LECTURE 9 (15.02) - Artificial Neural Networks
 - LECTURE 10 (19.02) - Deep Artificial Neural Networks
+- LECTURE 11 (20.02) - Sequential Data
 
 ## Course Description:
 
