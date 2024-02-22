@@ -14,6 +14,7 @@ This is a repository containing the lectures for the Skoltech's Machine Learning
 - LECTURE 9 (15.02) - Artificial Neural Networks
 - LECTURE 10 (19.02) - Deep Artificial Neural Networks
 - LECTURE 11 (20.02) - Sequential Data
+- LECTURE 12 (22.02) - Gaussian Processes
 
 ## Course Description:
 
