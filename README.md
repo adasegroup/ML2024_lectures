@@ -17,6 +17,7 @@ This is a repository containing the lectures for the Skoltech's Machine Learning
 - LECTURE 12 (22.02) - Gaussian Processes
 - LECTURE 13 (26.02) - Dimensionality Reduction
 - LECTURE 14 (27.02) - Anomaly Detection
+- LECTURE 15 (29.02) - Clustering
 
 ## Course Description:
 
